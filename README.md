@@ -30,5 +30,4 @@
 [![](https://visitcount.itsvg.in/api?id=bogybogbog&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://wakatime.com/share/@49d656ed-2567-411c-af1d-ec6d138faa06/8930286b-dc38-4918-8efb-10ce77896563.svg" ></img>
 <img src="https://wakatime.com/share/@49d656ed-2567-411c-af1d-ec6d138faa06/1736075f-cdbb-48d6-bcd1-2ad25c3e0b27.svg"></img>
