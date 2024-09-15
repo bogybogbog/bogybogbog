@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ I'm currently working on web development<br>🚨 I'm looking to collaborate on front-end<br>🎉 I'm looking for help with some basic things on front-end development<br>❤️‍🔥 I'm currently learning front-end development<br>☘️ Ask me about basics of programming<br>☄️ Fun fact I'm 6 feet tall
+✨ I'm currently working on web development<br>🎉 I'm looking for help with some basic things on front-end development<br>❤️‍🔥 I'm currently learning front-end development<br>☄️ Fun fact I'm 6 feet tall
 
 
 ## 🌐 Socials:
